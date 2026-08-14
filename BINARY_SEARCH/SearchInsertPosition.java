@@ -34,7 +34,7 @@ public class SearchInsertPosition{
 	public static void main(String args[]){
 		
 		int arr[]={1,2,4,7};
-		int x=6;
+		int x=8;
 		
 		SearchInsertPosition ob=new SearchInsertPosition();
 		int res = ob.solution(arr,x);
